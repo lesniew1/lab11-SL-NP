@@ -4,6 +4,10 @@ calculator.py
 
 One function per operation, in order.
 """
+#https://github.com/lesniew1/lab11-SL-NP
+#Stephen Lesniewski
+#Nicholas Phipps
+
 # First example
 import math
 
